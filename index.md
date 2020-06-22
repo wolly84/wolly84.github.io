@@ -9,3 +9,5 @@ Darth Vader is a fictional character in Star Wars. His real name is Anikin Skywa
 * heldenhaft
 
 > No, I am your father! – And so revealed was one of cinema’s greatest plot twists that Vader was actually Luke’s old man.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SWCA_-_Darth_Vader_%2817176938316%29.jpg/800px-SWCA_-_Darth_Vader_%2817176938316%29.jpg"/>
